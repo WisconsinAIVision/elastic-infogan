@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@inproceedings{ojha2020elastic,
+  title={Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Class-Imbalanced Data},
+  author={Ojha, Utkarsh and Singh, Krishna Kumar and Hsieh, Cho-Jui and Lee, Yong Jae},
+  booktitle={NeurIPS},
+  year={2020}
 }
