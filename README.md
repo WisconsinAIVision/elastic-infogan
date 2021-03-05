@@ -5,7 +5,7 @@ This repository provides the official PyTorch implementation of Elastic-InfoGAN,
 
 [Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Class-Imbalanced Data](https://utkarshojha.github.io/elastic-infogan/)
 [Utkarsh Ojha](https://utkarshojha.github.io/), [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/), [Cho-jui Hsieh](http://web.cs.ucla.edu/~chohsieh/), [Yong Jae Lee](https://web.cs.ucdavis.edu/~yjlee/) <br>
-UC Davis, UCLA, and Adobe Research
+UC Davis, UCLA, and Adobe Research <br>
 In NeurIPS 2020
 
 ## System requirements
@@ -36,7 +36,15 @@ In NeurIPS 2020
 - This will compute the Normalized Mutual Information (NMI) and Average Entropy (ENT).
 
 ## Example results
+### Imbalanced MNIST
 
+### Imbalanced 3D Cars
+
+### Imbalanced 3D Chairs
+
+### Imbalanced ShapeNet
+
+### Imbalanced YouTube Faces
 
 ## Citation
 
@@ -48,7 +56,7 @@ If you find our work/code useful in your research, please cite our paper.
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2020}
 }
-
+```
 For any queries related to this work, please contact [Utkarsh Ojha](https://utkarshojha.github.io/)
   
 - 
