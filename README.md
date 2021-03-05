@@ -8,6 +8,8 @@ This repository provides the official PyTorch implementation of Elastic-InfoGAN,
 UC Davis, UCLA, and Adobe Research <br>
 In NeurIPS 2020
 
+<img src="resources/elastic_infogan_main.svg" width="800px"/>
+
 ## System requirements
 - Linux
 - Python 2
@@ -37,14 +39,19 @@ In NeurIPS 2020
 
 ## Example results
 ### Imbalanced MNIST
+<img src="resources/mnist_results_new.svg" width="800px"/>
 
 ### Imbalanced 3D Cars
+<img src="resources/3D_Cars_result.svg" width="800px"/>
 
 ### Imbalanced 3D Chairs
+<img src="resources/3D_Chairs_result.svg" width="800px"/>
 
 ### Imbalanced ShapeNet
+<img src="resources/shapenet_results_full.svg" width="800px"/>
 
-### Imbalanced YouTube Faces
+### Imbalanced YouTube-Faces
+<img src="resources/yt_face_new_jvae.svg" width="800px"/>
 
 ## Citation
 
@@ -57,6 +64,8 @@ If you find our work/code useful in your research, please cite our paper.
   year={2020}
 }
 ```
+The Gumbel-softmax implementation was taken from this wonderful [work](https://github.com/ericjang/gumbel-softmax) by Eric Jang et al. 	 
+
 For any queries related to this work, please contact [Utkarsh Ojha](https://utkarshojha.github.io/)
   
 - 
