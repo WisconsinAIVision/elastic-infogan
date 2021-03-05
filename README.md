@@ -64,8 +64,8 @@ If you find our work/code useful in your research, please cite our paper.
   year={2020}
 }
 ```
-The Gumbel-softmax implementation was taken from this wonderful [work](https://github.com/ericjang/gumbel-softmax) by Eric Jang et al. 	 
-
-For any queries related to this work, please contact [Utkarsh Ojha](https://utkarshojha.github.io/)
+- The Gumbel-softmax implementation was taken from this wonderful [work](https://github.com/ericjang/gumbel-softmax) by Eric Jang et al. 	 
+- The implementation for Normalized Temperature-Scaled Cross Entropy loss was taken from this [repository](https://github.com/sthalles/SimCLR) by Thalles Silva.
   
-- 
+For any queries related to this work, please contact [Utkarsh Ojha](https://utkarshojha.github.io/)
+ 
