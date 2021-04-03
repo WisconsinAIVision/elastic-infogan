@@ -21,7 +21,7 @@ In NeurIPS 2020
 - Augmentor
 
 ## Creating the dataset
-- ```./splits/70k.pt``` contains the original MNIST dataset.
+- Get the original MNIST dataset from this [link](https://drive.google.com/file/d/1s9tUfbU8bILxb8cvD04RH8Vg1wp1E1ak/view?usp=sharing). Move it to the ```./splits``` directory.  
 - ```./splits/50_data_imbalance.npy``` contains 50 (random) class-imbalance information.
 - Run ```bash data.sh``` to create the 50 imbalanced MNIST datasets, which will be stored in the ```splits``` directory.
 
